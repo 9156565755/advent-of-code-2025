@@ -8,3 +8,11 @@ Before any of them can find a ladder, a particularly large Christmas tree sudden
 You go look for a ladder; only 23 stars to go.
 
 If you like, you can .
+
+Both parts of this puzzle are complete! They provide two gold stars: **
+
+At this point, all that is left is for you to admire your Advent calendar.
+
+If you still want to see it, you can get your puzzle input.
+
+You can also [Share] this puzzle.
